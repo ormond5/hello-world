@@ -1,5 +1,5 @@
 # hello-world
 just another repository
 DeShaun Ormond
-22 year old grad student at uni of essex. Undergraduate at Coker College(go cobras). 
-Always up for fun and good laughs. I love programming in python. 
+Grad student at university of Essex. Undergraduate at Coker College('18, go cobras). 
+Always up for fun and good laughs. Interested in a career in the software developer/cyber security field. . 
