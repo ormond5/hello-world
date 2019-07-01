@@ -12,5 +12,7 @@ I and am hoping to enter a role as a software developer or a cyber security fiel
 
 My favorite thing to do is eat pizza, play sports and laugh.
 
-Please bare with me while I am re-organizing my github! Thank you for understanding
+Please bare with me while I am re-organizing my github! 
+
+Thank you for coming, please let me know if you have any questions!
 
